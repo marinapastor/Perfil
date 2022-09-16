@@ -1,4 +1,3 @@
-# 
 Hi :wave:, I'm Marina Pastor</h1> 
 - 
 - :woman_technologist: I’m currently working on *Novasol Holiday Rental* 
